@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/nature/clientlibs"/>
+    <filter root="/apps/nature/components"/>
+    <filter root="/apps/nature/i18n"/>
+</workspaceFilter>
